@@ -12,7 +12,7 @@
 # Table of Contents
 
 - Cleaned butterfly occurrence records from [GBIF](https://www.gbif.org/), [Borneo Butterfly Distribution Database (B2D2)](https://www-users.york.ac.uk/~jkh6/), [Spatial occurrence data for the animals of Bangladesh derived from Facebook](https://doi.pangaea.de/10.1594/PANGAEA.948104), and other credible published sources. 
-  - [`Tropical Asia Butterfly Occurrence Database`](https://drive.google.com/file/d/17MxkXPFb8Z_BJiF1wKfRxd8aGZRYcZ51/view?usp=sharing)
+  - [`Tropical Asian Butterfly Occurrence Database`](https://drive.google.com/file/d/17MxkXPFb8Z_BJiF1wKfRxd8aGZRYcZ51/view?usp=sharing)
 - R script used to construct species distribution models(SDMs).
   - [`Code/SDM`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 - R scripts used to match species names and stack single species distributions to map diversity patterns.
