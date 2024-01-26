@@ -17,10 +17,14 @@
   - [`Predicted Individual Species Distribution Maps`](https://figshare.com/LINK)
 - R script used to construct SDMs.
   - [`Code/SDM`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
-- R scripts used to match species names / clean dataset, stack single species distributions to map diversity patterns, and extract variable importance.
+- R scripts used to match species names / clean dataset, map diversity patterns, and extract SDM variable importance.
   - [`Code/Supplementary`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
+     - [`Match species names / clean dataset`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
+     - [`Map diversity patterns by stacking single species distributions`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
+     - [`SDM variable importance`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
+     - [`SDM performace`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 - Files essential for running our R scripts.
-  - [`Code/Files`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)  
+  - [`Code/Files`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 - JavaScript code used to extract and filter Landsat data for use as SDM variable (NDVImean), also available on [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830).
   - [`Code/Variables`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 
