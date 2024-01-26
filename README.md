@@ -17,6 +17,8 @@
   - [`Predicted Individual Species Distribution Maps`](https://figshare.com/LINK)
 - R script used to construct SDMs.
   - [`Code/SDM`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
+     - [`R script`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
+     - [`R Markdown file`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 - R scripts used to match species names / clean dataset, map diversity patterns, and extract SDM variable importance.
   - [`Code/Supplementary`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
      - [`Match species names / clean dataset`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
@@ -24,7 +26,7 @@
      - [`SDM variable importance`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
      - [`SDM performace`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 - Files essential for running our R scripts.
-  - [`Code/Files`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
+  - [`Code/Files`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/tree/main/Code/Files)
 - JavaScript code used in Google Earth Engine to extract and filter Landsat data for use as SDM variable (NDVImean), open in [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830) or download code from here:
   - [`Code/Variables`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 
