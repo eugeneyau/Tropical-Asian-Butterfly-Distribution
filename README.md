@@ -13,12 +13,13 @@
 
 - Cleaned butterfly occurrence records from [GBIF](https://www.gbif.org/), [Borneo Butterfly Distribution Database (B2D2)](https://www-users.york.ac.uk/~jkh6/), [Spatial occurrence data for the animals of Bangladesh derived from Facebook](https://doi.pangaea.de/10.1594/PANGAEA.948104), and other credible published sources. 
   - [`Tropical Asian Butterfly Occurrence Database`](https://drive.google.com/file/d/17MxkXPFb8Z_BJiF1wKfRxd8aGZRYcZ51/view?usp=sharing)
-- R script used to construct species distribution models(SDMs).
-  - [`Code/SDM`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
-- R scripts used to match species names and stack single species distributions to map diversity patterns.
-  - [`Code/Supplementary`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)  
-- SDM-predicted distribution maps of tropical Asian butterflies.
+- Distribution maps of tropical Asian butterflies as predicted by species distribution models(SDMs).
   - [`Predicted Individual Species Distribution Maps`](https://figshare.com/LINK)
-- Code used to extract and filter Landsat data for use as SDM variable.
+- R script used to construct SDMs.
+  - [`Code/SDM`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
+- R scripts used to match species names / clean dataset and stack single species distributions to map diversity patterns.
+  - [`Code/Supplementary`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)  
+
+- Code used to extract and filter Landsat data for use as SDM variable (NDVImean).
   - [`Code/Variables`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 
