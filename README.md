@@ -25,7 +25,7 @@
      - [`SDM performace`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 - Files essential for running our R scripts.
   - [`Code/Files`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
-- JavaScript code used in Google Earth Engine to extract and filter Landsat data for use as SDM variable (NDVImean), open in [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830) or download code here:
+- JavaScript code used in Google Earth Engine to extract and filter Landsat data for use as SDM variable (NDVImean), open in [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830) or download code from here:
   - [`Code/Variables`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 
 
