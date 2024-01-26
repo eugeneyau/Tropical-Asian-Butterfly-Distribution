@@ -21,7 +21,7 @@
   - [`Code/Supplementary`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 - Files essential for running our R scripts.
   - [`Code/Files`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)  
-- Code used to extract and filter Landsat data for use as SDM variable (NDVImean), also available on [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830).
+- JavaScript code used to extract and filter Landsat data for use as SDM variable (NDVImean), also available on [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830).
   - [`Code/Variables`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 
 
