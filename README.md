@@ -29,7 +29,7 @@ While regional and global distributions are available for a range of species, in
      - [`SDM performance evaluation`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Model_eval_summary.R)
 - Files essential for running our R scripts, please download all of them before running our codes.
   - [`Code/Files`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/tree/main/Code/Files)
-- JavaScript code used in Google Earth Engine to extract and filter Landsat data for use as SDM variable (NDVImean), open in [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830) or download code from here:
+- JavaScript code used in Google Earth Engine to extract and filter Landsat data for use as SDM variable (NDVImean), view in [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830) or download code from here:
   - [`Code/Variables`](https://github.com/RhettRautsaw/VenomMaps/tree/master/code)
 
 
