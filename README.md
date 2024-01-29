@@ -3,6 +3,8 @@
 ### Eugene Yu Hin Yau, Emily E. Jones, Toby Pak Nok Tsang, Shuang Xing, Richard Corlett, Patrick Roehrdanz, David J Lohman, Adam Kai Chi Lee, Catherine Wai Ching Hai, Shawan Chowdhury, Jane K. Hill, Jade A. T. Badon, Gerard Chartier, Cheong Weei Gan, Yves Basset, I-Ching Chen, Suzan Benedick, Anuj Jain, Tiffany Ki, Krushnamegh Kunte, Lien Van Vu, Sarah Scriven, Alice C. Hughes, Timothy C. Bonebrake*
 #### *E-mail: tbone@hku.hk
 
+### For more details on our dataset please visit our [`published data paper`](https://doi.org/link)
+
 <br>
 
 [![](https://img.shields.io/badge/Citation-Scientific%20Data-blue)](https://doi.org/link)
