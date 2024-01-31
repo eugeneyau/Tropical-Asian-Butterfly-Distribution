@@ -1,6 +1,6 @@
 # Spatial occurrence records and distributions of tropical Asian butterflies
 
-### Eugene Yu Hin Yau, Emily E. Jones, Toby Pak Nok Tsang, Shuang Xing, Richard Corlett, Patrick Roehrdanz, David J Lohman, Adam Kai Chi Lee, Catherine Wai Ching Hai, Shawan Chowdhury, Jane K. Hill, Jade A. T. Badon, Gerard Chartier, Cheong Weei Gan, Yves Basset, I-Ching Chen, Suzan Benedick, Anuj Jain, Tiffany Ki, Krushnamegh Kunte, Lien Van Vu, Sarah Scriven, Alice C. Hughes, Timothy C. Bonebrake*
+### Eugene Yu Hin Yau, Emily E. Jones, Toby Pak Nok Tsang, Shuang Xing, Richard Corlett, Patrick Roehrdanz, David J Lohman, Adam Kai Chi Lee, Catherine Wai Ching Hai, Shawan Chowdhury, Jane K. Hill, Jade A. T. Badon, Gerard Chartier, Cheong Weei Gan, Yves Basset, I-Ching Chen, Suzan Benedick, Anuj Jain, Tiffany Ki, Krushnamegh Kunte, Lien Van Vu, Sarah Scriven, Alice C. Hughes & Timothy C. Bonebrake*
 #### *E-mail: tbone@hku.hk
 
 <img align="right" src="https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/md_images/Sampling%20density.png" width=300> 
