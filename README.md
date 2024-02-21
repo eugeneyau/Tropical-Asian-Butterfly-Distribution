@@ -12,7 +12,7 @@ While regional and global distributions are available for a range of species, in
 
 [![](https://img.shields.io/badge/Citation-Scientific%20Data-blue)](https://doi.org/link)
 [![](https://img.shields.io/badge/Archive-figshare/192596-blue)](https://doi.org/link)
-[![](https://img.shields.io/badge/License-CC%20BY-blue)](https://creativecommons.org/licenses/by/4.0/)
+[![](https://img.shields.io/badge/License-CC%20BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 # Table of Contents
 
