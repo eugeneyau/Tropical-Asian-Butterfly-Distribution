@@ -17,7 +17,7 @@ Insect biogeography is poorly documented globally, particularly in the tropics. 
 # Table of Contents
 
 - Cleaned butterfly occurrence records from [GBIF](https://doi.org/10.15468/dd.nvw5wr), [Borneo Butterfly Distribution Database (B2D2)](https://www-users.york.ac.uk/~jkh6/), [Spatial occurrence data for the animals of Bangladesh derived from Facebook](https://doi.pangaea.de/10.1594/PANGAEA.948104), and other credible published sources. 
-  - [`Tropical Asian Butterfly Occurrence Database`](https://drive.google.com/file/d/17MxkXPFb8Z_BJiF1wKfRxd8aGZRYcZ51/view?usp=sharing)
+  - [`Tropical Asian Butterfly Occurrence Database`](https://doi.org/10.6084/m9.figshare.25037645)
 - Distribution maps of tropical Asian butterflies as predicted by species distribution models(SDMs).
   - [`Predicted Individual Species Distribution Maps`](https://figshare.com/s/f00308ace989e8446350)
 - R script used to construct SDMs.
