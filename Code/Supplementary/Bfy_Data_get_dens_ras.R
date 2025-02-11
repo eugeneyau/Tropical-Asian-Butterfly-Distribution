@@ -1,4 +1,4 @@
-### This script has been annotated with the help of generative AI with access to internet ###
+### This script was annotated with the help of generative AI with access to internet ###
 
 # Load necessary libraries
 library(maptools)
