@@ -24,7 +24,7 @@ Insect biogeography is poorly documented globally, particularly in the tropics. 
   - [`Code/SDM`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/tree/main/Code/SDM)
      - [`R script`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/SDM/SEA_Bfy_SDM.R)
      - [`R Markdown file`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/SDM/RMD_SEA_Bfy_SDM.Rmd)
-- Additional R scripts used to clean our dataset, prepare for distribution modeling, and analyze SDM outputs.
+- Additional R scripts used to clean our dataset, prepare for distribution modeling, analyze SDM outputs, and buffer occurrence points of unmodelled species.
   - [`Code/Supplementary`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/tree/main/Code/Supplementary)
      - [`Clean dataset family names`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/.R)
      - [`Harmonize species names`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/.R)
@@ -34,8 +34,7 @@ Insect biogeography is poorly documented globally, particularly in the tropics. 
      - [`Map diversity patterns by stacking single species distributions`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Plot_zoned_alpha_diversity.R)
      - [`SDM variable importance`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Var_imp.R)
      - [`SDM performance evaluation`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Model_eval_summary.R)
-- Files essential for running our R scripts, please download all of them before running our codes.
-  - [`Code/Files`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/tree/main/Code/Files)
+- Please download files essential for running our R scripts from our [`Figshare repository`](https://doi.org/10.6084/m9.figshare.25037645) before running our codes.
 - JavaScript code used in Google Earth Engine to extract and filter Landsat data for use as SDM variable (NDVImean), view in [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830) or download code from here:
   - [`Code/Variables`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Variables/GEE_NDVImean.txt)
 
