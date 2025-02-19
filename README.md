@@ -34,7 +34,7 @@ Insect biogeography is poorly documented globally, particularly in the tropics. 
      - [`Map diversity patterns by stacking single species distributions`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Plot_zoned_alpha_diversity.R)
      - [`SDM variable importance`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Var_imp.R)
      - [`SDM performance evaluation`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Model_eval_summary.R)
-- Please download files essential for running our R scripts from our [`Figshare repository`](https://doi.org/10.6084/m9.figshare.25037645) before running our codes.
+- Please download files essential for running our R scripts from our [`Figshare repository (SDMsupp_files.zip)`](https://doi.org/10.6084/m9.figshare.25037645) before running our codes.
 - JavaScript code used in Google Earth Engine to extract and filter Landsat data for use as SDM variable (NDVImean), view in [`Google Earth Engine`](https://code.earthengine.google.com/7e1c649f06f22536419886e34a14d830) or download code from here:
   - [`Code/Variables`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Variables/GEE_NDVImean.txt)
 
