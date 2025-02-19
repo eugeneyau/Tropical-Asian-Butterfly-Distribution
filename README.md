@@ -24,8 +24,12 @@ Insect biogeography is poorly documented globally, particularly in the tropics. 
   - [`Code/SDM`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/tree/main/Code/SDM)
      - [`R script`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/SDM/SEA_Bfy_SDM.R)
      - [`R Markdown file`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/SDM/RMD_SEA_Bfy_SDM.Rmd)
-- R scripts used to match species names / clean dataset, map diversity patterns, and extract SDM variable importance.
+- Additional R scripts used to clean our dataset, prepare for distribution modeling, and analyze SDM outputs.
   - [`Code/Supplementary`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/tree/main/Code/Supplementary)
+     - [`Clean dataset family names`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/.R)
+     - [`Harmonize species names`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/.R)
+     - [`Identify possible biogeographic range of dispersal for each species`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/.R)
+     - [`Calculate spatial sampling effort`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Update_sp_name.R)
      - [`Match species names / clean dataset`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Update_sp_name.R)
      - [`Map diversity patterns by stacking single species distributions`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Plot_zoned_alpha_diversity.R)
      - [`SDM variable importance`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Code/Supplementary/SEA_Bfy_Data-Var_imp.R)
