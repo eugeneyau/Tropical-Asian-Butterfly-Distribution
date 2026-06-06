@@ -14,6 +14,9 @@ Insect biogeography is poorly documented globally, particularly in the tropics. 
 [![](https://img.shields.io/badge/Archive-figshare/25037645-blue)](https://doi.org/10.6084/m9.figshare.25037645)
 [![](https://img.shields.io/badge/License-CC%20BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
+# 📰 Latest News
+* **June 2026**: Released occurrence dataset v1.1 with major updates in the backbone taxonomy used to harmonize species names. Corrects known problems in GBIF binomial synonym harmonization.
+
 # Table of Contents
 
 - Cleaned butterfly occurrence records from [GBIF](https://doi.org/10.15468/dd.nvw5wr), [Borneo Butterfly Distribution Database (B2D2)](https://www-users.york.ac.uk/~jkh6/), [Spatial occurrence data for the animals of Bangladesh derived from Facebook](https://doi.pangaea.de/10.1594/PANGAEA.948104), and other credible published sources. 
