@@ -15,7 +15,7 @@ Insect biogeography is poorly documented globally, particularly in the tropics. 
 [![](https://img.shields.io/badge/License-CC%20BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 # 📰 News
-* **June 2026**: Released occurrence dataset v1.1 (Occurrence Records of Tropical Asian Butterflies - 1970-2024 v1.1) with major updates in the backbone taxonomy used to harmonize species names. Corrects known problems in GBIF binomial synonym harmonization.
+* **June 2026**: Released occurrence dataset v1.1 (Occurrence Records of Tropical Asian Butterflies: 1970-2024 v1.1) that addresses multiple taxonomic errors identified in the GBIF records in our original dataset, which stemmed from issues with taxonomic harmonization and incorporates 17,635 GBIF records omitted from v1.
 * **June 2025**: Occurrence dataset v1 released with our [`data paper`](https://doi.org/10.1038/s41597-025-05333-w).
 
 # Table of Contents
