@@ -1,18 +1,12 @@
-# Spatial occurrence records and distributions of tropical Asian butterflies
+# Occurrence Record Version 1.1
 
-### Eugene Yu Hin Yau, Emily E. Jones, Toby Pak Nok Tsang, Shuang Xing, Richard T. Corlett, Patrick Roehrdanz, David J. Lohman, Adam Kai Chi Lee, Catherine Wai Ching Hai, Shawan Chowdhury, Jane K. Hill, Jade A. T. Badon, Cheong Weei Gan, Yves Basset, I-Ching Chen, Suzan Benedick, Anuj Jain, Tiffany L.T. Ki, Krushnamegh Kunte, Akihiro Nakamura, Lien Van Vu, Sarah A. Scriven, Alice C. Hughes, Timothy C. Bonebrake*
-#### *E-mail: tbone@hku.hk
+Occurrence Records of Tropical Asian Butterflies: 1970-2024 v1.1 addresses multiple taxonomic errors identified in the GBIF records in our original dataset which stemmed from issues with taxonomic harmonization (see #1 below) and incorporates 17,635 GBIF records omitted from v1 (see #2 below).
 
-<img align="right" src="https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/md_images/Figure%201.jpg" width=420> 
+V1.1 now includes 747,825 occurrence records for 3,738 species. Records of Nymphalidae (1,358 spp.; 327,643 records) comprise 44% of the dataset, followed by Lycaenidae (1,076 spp; 156,162 records), Papilionidae (265 spp.; 100,904), Pieridae (391 spp.; 93,376 records), Hesperiidae (638 spp.; 65,613 records), and Riodinidae (33 spp.; 4,127 records). Updated dataset metadata is available at v1.1 Metadata for Occurrence Records of Tropical Asian Butterflies 1970-2024_23July2026EJ. Updated SDMs incorporating these changes are now available in SDMsupp_files.zip. 
 
-Insect biogeography is poorly documented globally, particularly in the tropics. Recent intensive research in tropical Asia, combined with increasingly available records from citizen science, provides an opportunity to map the distributions of tropical Asian butterflies. We compiled a dataset of 730,190 occurrences of 3,752 tropical Asian butterfly species by aggregating records from GBIF (651,285 records), published literature (27,217), published databases (37,695), and unpublished data (13,993). Here, we present this dataset and single-species distribution maps of 1,576 species. Using these maps, along with records of the 2,176 remaining species, we identified areas of limited sampling (e.g., Myanmar and New Guinea) and predicted areas of high diversity (Peninsular Malaysia and Borneo). This dataset can be leveraged for a range of studies on Asian and tropical butterflies, including 1) species biogeography, 2) sampling prioritization to fill gaps, 3) biodiversity hotspot mapping, and 4) conservation evaluation and planning. We encourage the continued development of this dataset and the associated code as a tool for the conservation of tropical Asian insects. For more details on our dataset and SDMs, please refer to our [`data paper`](https://doi.org/10.1038/s41597-025-05333-w). 
-
+_Please note: Data in v1.1 is reordered from v1. Index column data are not unique identifiers for data in v1 and v1.1; they only denote the row number. The datasetKey data for all non-GBIF data may still be used as record identifiers._
 
 <br>
-
-[![](https://img.shields.io/badge/Citation-Scientific%20Data-blue)](https://www.nature.com/articles/s41597-025-05333-w#citeas)
-[![](https://img.shields.io/badge/Archive-figshare/25037645-blue)](https://doi.org/10.6084/m9.figshare.25037645)
-[![](https://img.shields.io/badge/License-CC%20BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 # 📰 News
 * **June 2026**: Released occurrence dataset v1.1 (Occurrence Records of Tropical Asian Butterflies: 1970-2024 v1.1) that addresses multiple taxonomic errors identified in the GBIF records in our original dataset, which stemmed from issues with taxonomic harmonization and incorporates 17,635 GBIF records omitted from v1.
