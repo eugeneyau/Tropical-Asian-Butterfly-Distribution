@@ -25,6 +25,7 @@ Insect biogeography is poorly documented globally, particularly in the tropics. 
   - [`Version 1.1 update backbone taxonomy`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/tree/main/Version%201.1%20update)
      - [`R script to correct GBIF binomial synonym harmonization`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Version%201.1%20update/Supp_update_sp_name--correct_GBIF.R)
      - [`Updated harmonization list for GBIF records`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Version%201.1%20update/GBIF_harmonization_YFL.csv)
+     - [`metadata of the updated harmonization list`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/blob/main/Version%201.1%20update/metadata%20for%20GBIF_harmonization_YFL.xlsx)
 - Distribution maps of tropical Asian butterflies as predicted by species distribution models(SDMs) can be downloaded as separate raster files or one single PDF file from our [`Figshare repository`](https://doi.org/10.6084/m9.figshare.25037645).
 - R script used to construct SDMs:
   - [`Code/SDM`](https://github.com/eugeneyau/Tropical-Asian-Butterfly-Distribution/tree/main/Code/SDM)
